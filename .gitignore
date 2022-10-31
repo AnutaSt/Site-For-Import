@@ -1,3 +1,6 @@
 tmp/
 img/_backup
 *_old
+*.db
+*.DS_Store
+*.vs
